@@ -1,0 +1,137 @@
+
+
+#gamePage
+{
+  background-image: url("../backgrounds/background.png");
+  background-size: cover; 
+  border: none;
+}
+
+#sahara
+{
+  background-image: url("../backgrounds/sahara.jpg");
+  background-repeat: no-repeat;
+}
+
+#forest
+{
+  background-image: url("../backgrounds/forest.jpg");
+}
+
+
+#landingBox{
+  margin-top: 50px;
+  margin-left: 30px;
+}
+
+
+
+#card {
+  background-color: rgba(81, 51, 51, 0.8);
+  border : solid 1px;
+  border-radius: 5px;
+  padding: 10px;
+  margin : 10px 10px 10px 10px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+}
+
+#unitDescription {
+  font-family: 'Playfair Display', serif; /* A more elegant and decorative font */
+  font-size: 24px;
+  font-weight: bold;
+  color: #dedede; /* A glorious orange color */
+  background: rgba(0, 0, 0, 0.9); /* A glorious orange color */
+  border: 2px solid #FF4500; /* Vibrant border color */
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+#descriptionWindow {
+  background-image: url("../backgrounds/descriptionBackground.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#fr_arabe{
+background-image:url("../sprites/descriptionIdle/ARAB.gif") ;
+background-size: cover; 
+border: none;
+}
+#fr_aztic{
+background-image:url("../sprites/descriptionIdle/AZTEC.gif");
+background-size: cover; 
+border: none;
+}
+#fr_mongol{
+background-image:url("../sprites/descriptionIdle/MONGOL.gif");
+background-size: cover; 
+border: none;
+}
+#fr_roman{
+background-image:url("../sprites/descriptionIdle/ROMAN.gif");
+background-size: cover; 
+border: none;
+}
+#fr_iran{
+background-image:url("../sprites/descriptionIdle/PERSIAN.gif");
+background-size: cover; 
+border: none;
+}
+#FFFFF{
+background-image:url("../backgrounds/WIN.jpg");
+background-size: cover; 
+border: none;
+}
+
+#gameTuto {
+  font-family: 'Playfair Display', serif; /* A more elegant and decorative font */
+  font-size: 24px;
+  font-weight: bold;
+  color: #FF4500; /* A glorious orange color */
+  background: rgba(0, 0, 0, 0.9); /* A glorious orange color */
+  border: 2px solid #FF4500; /* Vibrant border color */
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+#LoadingPage {
+  background-image: url("loadingPage/bgImage.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#loading_label {
+  color: red;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+#progressBar {
+  border: 2px solid rgb(33, 30, 30);
+  border-radius: 5px;
+  background-color: rgb(0, 0, 0);
+}
+
+#progressBar progress,
+#progressBar progressbar {
+  background-color: #FF4500;
+}
+
+#clue {
+  background: rgba(0, 0, 0, 0.9); /* A glorious orange color */
+  border: 2px solid #FF4500; /* Vibrant border color */
+  border-radius: 10px;
+  color: #FFFFFF; /* White text color */
+  font-family: 'Pacifico', cursive; /* A more elegant and decorative font */
+  font-size: 24px;
+  font-weight: bold;
+  padding: 15px 30px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3); /* Shadow for depth */
+  transition: all 0.2s ease-in-out; /* Add a smooth transition effect */
+}
+
+#headerbar { background-color: #1e1d1d; color: #FF4500; font-family: 'Pacifico', cursive;font-size: 24px;}
+#headerbar #title-label { font-size: 20px; font-weight: bold; color: #FF4500; }

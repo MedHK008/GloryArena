@@ -1,0 +1,12 @@
+type_field: 0
+type_player: -1
+type: 0 id: 0 pos_x: 198 pos_y: 293 lignevie: 100
+type: 0 id: 1 pos_x: 254 pos_y: 421 lignevie: 100
+type: 1 id: 0 pos_x: 544 pos_y: 399 lignevie: 100
+type: 1 id: 1 pos_x: 145 pos_y: 329 lignevie: 100
+type: 2 id: 0 pos_x: 57 pos_y: 290 lignevie: -14
+type: 2 id: 1 pos_x: 222 pos_y: 383 lignevie: -32
+type: 3 id: 0 pos_x: 64 pos_y: 328 lignevie: 100
+type: 3 id: 1 pos_x: 810 pos_y: 344 lignevie: 100
+type: 4 id: 0 pos_x: 414 pos_y: 428 lignevie: 100
+type: 4 id: 1 pos_x: 202 pos_y: 388 lignevie: 106
